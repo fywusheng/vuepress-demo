@@ -9,6 +9,7 @@
     "dev": "vuepress dev docs",
     "build": "vuepress build docs",
     "lint": "prettier --write 'docs/**/*.md'",
+    "deploy": "bash deploy.sh",
     "release": "node scripts/release.js"
   },
   "husky": {
