@@ -1,7 +1,7 @@
 {
-  "name": "awesome-bookmarks",
+  "name": "vuepress-demo",
   "version": "1.0.0",
-  "description": "awesome-bookmarks",
+  "description": "vuepress-demo",
   "main": "index.js",
   "author": "PanJiaChen",
   "license": "ISC",
